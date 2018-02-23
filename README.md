@@ -29,6 +29,8 @@ Kudos to our marketing manager [Andrew](https://twitter.com/andrewmaherbne) who 
 
 So will it deploy? **Yes it will!** Our deployment process looks like the following.
 
+![Deployment process](images/deployment-process.png)
+
 Then we add the following steps to successfully deploy our database changes and web app.
 
 - Octopus **Deploy a Package** step to copy our database scripts to our database deployment target
