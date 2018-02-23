@@ -10,6 +10,8 @@ Will it deploy is a video series where we try to automate the deployment of diff
 
 Our app is a quote generator called Random Quotes. The application is quite simple but it allows us to illustrate how to deploy database changes and updates.
 
+![Amazon web services logo](images/sqlserver-logo.png)
+
 * Microsoft [ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/) web app
 * [Entity Framework Core 2.0](https://docs.microsoft.com/en-us/ef/core/) framework
 * Microsoft [SQL Server 2017](https://www.microsoft.com/en-au/sql-server/) database
